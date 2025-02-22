@@ -1,6 +1,6 @@
 {
-  "name": "i18n-helper-cli",
-  "version": "0.1.8",
+  "name": "i18n-helper-babel",
+  "version": "0.1.1",
   "description": "i18n 命令行工具。一键包裹，提取，翻译，统计。支持网页截图，翻译词条检测",
   "main": ".src/cli.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wuqiang1985/i18n-helper.git"
+    "url": "git+https://github.com/1666931281/i18n-helper.git"
   },
   "keywords": [
     "i18n",
@@ -36,7 +36,7 @@
   "engines": {
     "node": ">= 14.0.0"
   },
-  "homepage": "https://github.com/wuqiang1985/i18n-helper#readme",
+  "homepage": "https://github.com/1666931281/i18n-helper#readme",
   "devDependencies": {
     "@babel/cli": "7.24.6",
     "@commitlint/cli": "^12.1.4",

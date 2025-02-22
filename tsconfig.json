@@ -66,7 +66,8 @@
     "skipLibCheck": true /* Skip type checking of declaration files. */,
     "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */,
 
-    "resolveJsonModule": true /* 引入json文件 */
+    "resolveJsonModule": true /* 引入json文件 */,
+    "types": ["@babel/core", "@babel/parser"]
   },
   "include": ["./src/**/*"],
   "exclude": ["node_modules", "./src/dist/**/*", "./src/test/**/*"]
